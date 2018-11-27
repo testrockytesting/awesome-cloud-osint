@@ -43,7 +43,7 @@ CSA Star Registry| sharedassessments
 
 Free | Commercial
 -----| ----------
-OpenBugBounty| sharedassessments
+OpenBugBounty| 
 PunkSPIDER |
 Vulners |
 
@@ -51,46 +51,46 @@ Vulners |
 
 Free | Commercial
 -----| ----------
-Crunchbase| sharedassessments
+Crunchbase| 
 
 ### Code Search
 
 Free | Commercial
 -----| ----------
-nerdydata| sharedassessments
+nerdydata| 
 
 ### IP Reputation
 
 Free | Commercial
 -----| ----------
-Cisco Talos| sharedassessments
+Cisco Talos| 
 
 ### DNS Search
 
 Free | Commercial
 -----| ----------
-DNSDumpster, Domaintools etc.| sharedassessments
+DNSDumpster, Domaintools etc.| 
 
 ### Breach Information
 
 Free | Commercial
 -----| ----------
-Google Search etc.| sharedassessments
+Google Search etc.| 
 
 ### Cloud Access Security Broker
 Free | Commercial
 -----| ----------
-|Cisco CloudLock, Skyhigh, Bitglass
+ | Cisco CloudLock, Skyhigh, Bitglass
 
 ### Third party risk measurement
 Free | Commercial
 -----| ----------
-|Bitsight, securityscorecard 
+ | Bitsight, securityscorecard 
 
 ### Financial Viability
 Free | Commercial
 -----| ----------
-|Dun & Bradstreet
+ | Dun & Bradstreet
 
 
 
