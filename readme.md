@@ -123,19 +123,19 @@ censys.io|
 https://transparencyreport.google.com/https/certificates | 
 
 ### Test for IPv6, DNSSEC, DMARC etc. Modern Standards
-
 Free | Commercial
+-----| ----------
 https://en.internet.nl | 
 
 
 ### Open Buckets analysis
-
 Free | Commercial
+-----|------------
 https://buckets.grayhatwarfare.com | 
 
 ### SSH Analysis 
-
 Free | Commercial
+-----|-----------
 https://sshcheck.com | 
 
 
