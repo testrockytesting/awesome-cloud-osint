@@ -85,16 +85,19 @@ Free | Commercial
 Google Search etc.| Recorded Future
 
 ### Cloud Access Security Broker
+
 Free | Commercial
 -----| ----------
 -----| Cisco CloudLock, Skyhigh, Bitglass
 
 ### Third party risk measurement
+
 Free | Commercial
 -----| ----------
 -----| Bitsight, securityscorecard 
 
 ### Financial Viability
+
 Free | Commercial
 -----| ----------
 -----| Dun & Bradstreet
@@ -117,21 +120,23 @@ urlscan.io|
 Free | Commercial
 -----| ----------
 censys.io|
-https://transparencyreport.google.com/https/certificates|
+https://transparencyreport.google.com/https/certificates | 
 
 ### Test for IPv6, DNSSEC, DMARC etc. Modern Standards
 
 Free | Commercial
-https://en.internet.nl/|
+https://en.internet.nl/ | 
+
 
 ### Open Buckets analysis
 
 Free | Commercial
-https://buckets.grayhatwarfare.com/ | 
+https://buckets.grayhatwarfare.com/ | . 
 
 ### SSH Analysis 
+
 Free | Commercial
-https://sshcheck.com/|
+https://sshcheck.com/ |
 
 
 
