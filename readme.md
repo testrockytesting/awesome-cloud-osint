@@ -1,6 +1,7 @@
 # This is a curated list of resources for collecting information about cloud providers. 
 
 
+## A presentation that covers the concept of Cloud OSINT and its application in third party cloud provider review - https://docs.google.com/presentation/d/113N-x1ocz7xDS5rXcmhmTqDyv2to028yAzedJlKq1J8/edit?usp=sharing
 
 ### Asset discovery
 
